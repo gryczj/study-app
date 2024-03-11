@@ -15,8 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@study-app/study-server": ["study-server/src/index.ts"],
-      "@study-app/study-web": ["study-web/src/index.ts"]
+      "@study-app/study-server": ["libs/study-server/src/index.ts"],
+      "@study-app/study-web": ["libs/study-web/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
