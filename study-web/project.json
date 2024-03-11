@@ -1,0 +1,8 @@
+{
+  "name": "study-web",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "study-web/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {}
+}
